@@ -14,9 +14,9 @@ Ingredients:
 Directions:
  1. Brown the ground beef in a large bot and drain off the excess fat.
 <<<<<<< HEAD
- 2. Add the tomato sauce, chili powder, cumin, oregano, salt, GINGER!!, and cayenne.
+ 2. Add the tomato sauce, chili powder, oregano, salt, GINGER!!, and cayenne.
 ||||||| merged common ancestors
- 2. Add the tomato sauce, chili powder, cumin, oregano, salt, and cayenne.
+ 2. Add the tomato sauce, chili powder, oregano, salt, and cayenne.
 =======
  2. Add the tomato sauce, chili powder, oregano, salt, and cayenne.
 >>>>>>> 1c99431622677dfc28ca86551d5dae82f12c2df2
